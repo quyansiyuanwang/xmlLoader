@@ -1,0 +1,4828 @@
+{
+  "root": {
+    "template": [
+      {
+        "title": "干员页面名",
+        "part": [
+          {
+            "name": "",
+            "value": "阿米娅"
+          },
+          {
+            "name": "",
+            "value": "Amiya"
+          },
+          {
+            "name": "",
+            "value": "アーミヤ"
+          }
+        ]
+      },
+      {
+        "title": "pathnav2",
+        "part": {
+          "name": "",
+          "value": "干员一览"
+        }
+      },
+      {
+        "title": "异格干员/升变"
+      },
+      {
+        "title": {
+          "comment": "<!--下方为自动更新部分，您的修改可能会被覆盖-->",
+          "#text": "CharinfoV2"
+        },
+        "part": [
+          {
+            "name": "干员名",
+            "equals": "=",
+            "value": "阿米娅"
+          },
+          {
+            "name": "干员名jp",
+            "equals": "=",
+            "value": "アーミヤ"
+          },
+          {
+            "name": "干员外文名",
+            "equals": "=",
+            "value": "Amiya"
+          },
+          {
+            "name": "干员id",
+            "equals": "=",
+            "value": "char_002_amiya"
+          },
+          {
+            "name": "干员序号",
+            "equals": "=",
+            "value": 55
+          },
+          {
+            "name": "特性",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "color",
+                "part": [
+                  {
+                    "name": "",
+                    "value": "#00B0FF"
+                  },
+                  {
+                    "name": "",
+                    "value": "法术伤害"
+                  }
+                ]
+              },
+              "#text": "攻击造成"
+            }
+          },
+          {
+            "name": "稀有度",
+            "equals": "=",
+            "value": 4
+          },
+          {
+            "name": "职业",
+            "equals": "=",
+            "value": "术师"
+          },
+          {
+            "name": "分支",
+            "equals": "=",
+            "value": "中坚术师"
+          },
+          {
+            "name": "情报编号",
+            "equals": "=",
+            "value": "R001"
+          },
+          {
+            "name": "所属国家",
+            "equals": "=",
+            "value": "罗德岛"
+          },
+          {
+            "name": "所属组织",
+            "equals": "=",
+            "value": ""
+          },
+          {
+            "name": "所属团队",
+            "equals": "=",
+            "value": ""
+          },
+          {
+            "name": "位置",
+            "equals": "=",
+            "value": "远程位"
+          },
+          {
+            "name": "标签",
+            "equals": "=",
+            "value": "输出"
+          },
+          {
+            "name": "画师",
+            "equals": "=",
+            "value": "唯@W"
+          },
+          {
+            "name": "中文配音",
+            "equals": "=",
+            "value": "陶典"
+          },
+          {
+            "name": "日文配音",
+            "equals": "=",
+            "value": "黑泽朋世"
+          },
+          {
+            "name": "韩文配音",
+            "equals": "=",
+            "value": "李智贤"
+          },
+          {
+            "name": "英文配音",
+            "equals": "=",
+            "value": "Emma Ballantine"
+          },
+          {
+            "name": "精英0介绍",
+            "equals": "=",
+            "value": "阿米娅最常穿着的服装，过大的尺寸似乎暗示了这件衣服曾不属于她<br/>不少细节部分都经过手工改造，而时间的痕迹也多有残留。"
+          },
+          {
+            "name": "精英1介绍",
+            "equals": "=",
+            "value": "阿米娅最常穿着的服装，过大的尺寸仿佛述说着这件衣服曾不属于她的事实。即便如此，她也仔细地打理着这件衣服，让它看起来就像新的一样。"
+          },
+          {
+            "name": "精英2介绍",
+            "equals": "=",
+            "value": "衣服需要修补，<br/>伤痛需要弥合。"
+          },
+          {
+            "name": "时装1名称",
+            "equals": "=",
+            "value": "报童"
+          },
+          {
+            "name": "时装1系列",
+            "equals": "=",
+            "value": "忒斯特收藏/I"
+          },
+          {
+            "name": "时装1颜色",
+            "equals": "=",
+            "value": "#313131"
+          },
+          {
+            "name": "时装1介绍",
+            "equals": "=",
+            "value": "LIMITED EDITION<br/>忒斯特™收藏系列/报童。限定区域供应。经典款式复刻，采用绝佳材质，附加特别缝纫细节。附带特别设计的开信刀。"
+          },
+          {
+            "name": "时装2名称",
+            "equals": "=",
+            "value": "见习联结者"
+          },
+          {
+            "name": "时装2系列",
+            "equals": "=",
+            "value": "忒斯特收藏/II"
+          },
+          {
+            "name": "时装2颜色",
+            "equals": "=",
+            "value": "#06c1a2"
+          },
+          {
+            "name": "时装2介绍",
+            "equals": "=",
+            "value": "忒斯特收藏系列/见习联结者。阿米娅在罗德岛餐厅打工时的穿着。蓬松外套很防寒，也能装进一只企鹅大小的东西。"
+          },
+          {
+            "name": "时装3名称",
+            "equals": "=",
+            "value": "播种者"
+          },
+          {
+            "name": "时装3系列",
+            "equals": "=",
+            "value": "忒斯特收藏/IV"
+          },
+          {
+            "name": "时装3颜色",
+            "equals": "=",
+            "value": "#ff9700"
+          },
+          {
+            "name": "时装3介绍",
+            "equals": "=",
+            "value": {
+              "comment": "<!--上方为自动更新部分，您的修改可能会被覆盖-->",
+              "#text": "忒斯特收藏系列/播种者。宽松舒适的出游配搭，独家附赠小型登山包与一个育苗套装。设计师有一个小小的愿望，她希望大家能够帮忙实现。"
+            }
+          },
+          {
+            "name": "精英0缩放",
+            "equals": "=",
+            "value": 2
+          },
+          {
+            "name": "精英0坐标x",
+            "equals": "=",
+            "value": -23
+          },
+          {
+            "name": "精英0坐标y",
+            "equals": "=",
+            "value": -67
+          },
+          {
+            "name": "精英1缩放",
+            "equals": "=",
+            "value": 2
+          },
+          {
+            "name": "精英1坐标x",
+            "equals": "=",
+            "value": 8
+          },
+          {
+            "name": "精英1坐标y",
+            "equals": "=",
+            "value": -161
+          },
+          {
+            "name": "精英2缩放",
+            "equals": "=",
+            "value": 2.6
+          },
+          {
+            "name": "精英2坐标x",
+            "equals": "=",
+            "value": -151
+          },
+          {
+            "name": "精英2坐标y",
+            "equals": "=",
+            "value": -434
+          },
+          {
+            "name": "时装1缩放",
+            "equals": "=",
+            "value": 2
+          },
+          {
+            "name": "时装1坐标x",
+            "equals": "=",
+            "value": -21
+          },
+          {
+            "name": "时装1坐标y",
+            "equals": "=",
+            "value": -56
+          },
+          {
+            "name": "时装2缩放",
+            "equals": "=",
+            "value": 2
+          },
+          {
+            "name": "时装2坐标x",
+            "equals": "=",
+            "value": 6
+          },
+          {
+            "name": "时装2坐标y",
+            "equals": "=",
+            "value": -76
+          },
+          {
+            "name": "时装3缩放",
+            "equals": "=",
+            "value": 2
+          },
+          {
+            "name": "时装3坐标x",
+            "equals": "=",
+            "value": -16
+          },
+          {
+            "name": "时装3坐标y",
+            "equals": "=",
+            "value": -82
+          }
+        ]
+      },
+      {
+        "title": "干员获得方式",
+        "part": [
+          {
+            "name": "获得方式",
+            "equals": "=",
+            "value": "主线剧情"
+          },
+          {
+            "name": "覆盖",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "orange"
+                    },
+                    {
+                      "name": "",
+                      "value": "2-10"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "orange"
+                    },
+                    {
+                      "name": "",
+                      "value": "3-8"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "orange"
+                    },
+                    {
+                      "name": "",
+                      "value": "4-9"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "orange"
+                    },
+                    {
+                      "name": "",
+                      "value": "6-17"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "orange"
+                    },
+                    {
+                      "name": "",
+                      "value": "7-18"
+                    }
+                  ]
+                }
+              ],
+              "#text": "主线剧情<br>（首次通关主题曲[[2-10|]]、[[3-8|]]、[[4-9|]]、[[6-17|]]、[[7-18|]]获取）"
+            }
+          },
+          {
+            "name": "上线时间",
+            "equals": "=",
+            "value": "2019-04-30 10:00"
+          }
+        ]
+      },
+      {
+        "title": "属性",
+        "part": [
+          {
+            "name": "再部署",
+            "equals": "=",
+            "value": "70s"
+          },
+          {
+            "name": "部署费用",
+            "equals": "=",
+            "value": "18→20"
+          },
+          {
+            "name": "阻挡数",
+            "equals": "=",
+            "value": 1
+          },
+          {
+            "name": "攻击速度",
+            "equals": "=",
+            "value": "1.6s"
+          },
+          {
+            "name": "精英0_1级_生命上限",
+            "equals": "=",
+            "value": 699
+          },
+          {
+            "name": "精英0_1级_攻击",
+            "equals": "=",
+            "value": 276
+          },
+          {
+            "name": "精英0_1级_防御",
+            "equals": "=",
+            "value": 48
+          },
+          {
+            "name": "精英0_1级_法术抗性",
+            "equals": "=",
+            "value": 10
+          },
+          {
+            "name": "精英0_满级",
+            "equals": "=",
+            "value": 50
+          },
+          {
+            "name": "精英0_满级_生命上限",
+            "equals": "=",
+            "value": 958
+          },
+          {
+            "name": "精英0_满级_攻击",
+            "equals": "=",
+            "value": 390
+          },
+          {
+            "name": "精英0_满级_防御",
+            "equals": "=",
+            "value": 81
+          },
+          {
+            "name": "精英0_满级_法术抗性",
+            "equals": "=",
+            "value": 10
+          },
+          {
+            "name": "精英1_满级",
+            "equals": "=",
+            "value": 70
+          },
+          {
+            "name": "精英1_满级_生命上限",
+            "equals": "=",
+            "value": 1198
+          },
+          {
+            "name": "精英1_满级_攻击",
+            "equals": "=",
+            "value": 514
+          },
+          {
+            "name": "精英1_满级_防御",
+            "equals": "=",
+            "value": 110
+          },
+          {
+            "name": "精英1_满级_法术抗性",
+            "equals": "=",
+            "value": 15
+          },
+          {
+            "name": "精英2_满级",
+            "equals": "=",
+            "value": 80
+          },
+          {
+            "name": "精英2_满级_生命上限",
+            "equals": "=",
+            "value": 1480
+          },
+          {
+            "name": "精英2_满级_攻击",
+            "equals": "=",
+            "value": 612
+          },
+          {
+            "name": "精英2_满级_防御",
+            "equals": "=",
+            "value": 121
+          },
+          {
+            "name": "精英2_满级_法术抗性",
+            "equals": "=",
+            "value": 20
+          },
+          {
+            "name": "信赖加成_生命上限",
+            "equals": "=",
+            "value": 200
+          },
+          {
+            "name": "信赖加成_攻击",
+            "equals": "=",
+            "value": 70
+          },
+          {
+            "name": "信赖加成_防御",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "潜能",
+            "equals": "=",
+            "value": "200,-1,30,-1,"
+          },
+          {
+            "name": "潜能类型",
+            "equals": "=",
+            "value": "hp,cost,atk,cost,"
+          },
+          {
+            "name": "初始模组名",
+            "equals": "=",
+            "value": "阿米娅证章"
+          },
+          {
+            "name": "模组1名",
+            "equals": "=",
+            "value": "DWDB-221E"
+          },
+          {
+            "name": "模组1数据",
+            "equals": "=",
+            "value": "max_hp:150;atk:50"
+          }
+        ]
+      },
+      {
+        "title": "干员攻击范围",
+        "part": [
+          {
+            "name": "精英0范围",
+            "equals": "=",
+            "value": "3-6"
+          },
+          {
+            "name": "精英1范围",
+            "equals": "=",
+            "value": "3-1"
+          },
+          {
+            "name": "精英2范围",
+            "equals": "=",
+            "value": "3-1"
+          }
+        ]
+      },
+      {
+        "title": "天赋列表",
+        "part": [
+          {
+            "name": "第一天赋1",
+            "equals": "=",
+            "value": "？？？"
+          },
+          {
+            "name": "第一天赋1条件",
+            "equals": "=",
+            "value": "精英0"
+          },
+          {
+            "name": "第一天赋1效果",
+            "equals": "=",
+            "value": "？？？？？"
+          },
+          {
+            "name": "第一天赋2",
+            "equals": "=",
+            "value": "情绪吸收"
+          },
+          {
+            "name": "第一天赋2条件",
+            "equals": "=",
+            "value": "精英2"
+          },
+          {
+            "name": "第一天赋2效果",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "修正",
+                "part": [
+                  {
+                    "name": "",
+                    "value": "成功造成伤害后"
+                  },
+                  {
+                    "name": "原文",
+                    "equals": "=",
+                    "value": "攻击敌人时"
+                  },
+                  {
+                    "name": "name",
+                    "equals": "=",
+                    "value": "修正1"
+                  },
+                  {
+                    "name": "原因",
+                    "equals": "=",
+                    "value": 6
+                  },
+                  {
+                    "name": "group",
+                    "equals": "=",
+                    "value": "注"
+                  }
+                ]
+              },
+              "#text": "额外回复2点技力，消灭敌人后额外获得8点技力"
+            }
+          },
+          {
+            "name": "第一天赋3",
+            "equals": "=",
+            "value": "情绪吸收"
+          },
+          {
+            "name": "第一天赋3条件",
+            "equals": "=",
+            "value": "精英2 潜能6"
+          },
+          {
+            "name": "第一天赋3效果",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "修正",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "成功造成伤害后"
+                    },
+                    {
+                      "name": "原文",
+                      "equals": "=",
+                      "value": "攻击敌人时"
+                    },
+                    {
+                      "name": "name",
+                      "equals": "=",
+                      "value": "修正1"
+                    },
+                    {
+                      "name": "原因",
+                      "equals": "=",
+                      "value": 6
+                    },
+                    {
+                      "name": "group",
+                      "equals": "=",
+                      "value": "注"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "（+1）"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "（+2）"
+                    }
+                  ]
+                }
+              ],
+              "#text": "额外回复3点技力，消灭敌人后额外获得10点技力"
+            }
+          }
+        ]
+      },
+      {
+        "title": "潜能提升",
+        "part": [
+          {
+            "name": "潜能2",
+            "equals": "=",
+            "value": "生命上限+200"
+          },
+          {
+            "name": "潜能3",
+            "equals": "=",
+            "value": "部署费用-1"
+          },
+          {
+            "name": "潜能4",
+            "equals": "=",
+            "value": "攻击力+30"
+          },
+          {
+            "name": "潜能5",
+            "equals": "=",
+            "value": "部署费用-1"
+          },
+          {
+            "name": "潜能6",
+            "equals": "=",
+            "value": "天赋效果增强"
+          }
+        ]
+      },
+      {
+        "title": "技能2",
+        "part": [
+          {
+            "name": "技能名",
+            "equals": "=",
+            "value": "战术咏唱·γ型"
+          },
+          {
+            "name": "技能名jp",
+            "equals": "=",
+            "value": "戦術詠唱γ"
+          },
+          {
+            "name": "技能名en",
+            "equals": "=",
+            "value": "Tactical Chant γ"
+          },
+          {
+            "name": "技能类型1",
+            "equals": "=",
+            "value": "自动回复"
+          },
+          {
+            "name": "技能类型2",
+            "equals": "=",
+            "value": "手动触发"
+          },
+          {
+            "name": "技能1描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 30
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 30
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能1初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能1消耗",
+            "equals": "=",
+            "value": 40
+          },
+          {
+            "name": "技能1持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能2描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 35
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 35
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能2初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能2消耗",
+            "equals": "=",
+            "value": 40
+          },
+          {
+            "name": "技能2持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能3描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 40
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 40
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能3初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能3消耗",
+            "equals": "=",
+            "value": 40
+          },
+          {
+            "name": "技能3持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能4描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 45
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 45
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能4初始",
+            "equals": "=",
+            "value": 5
+          },
+          {
+            "name": "技能4消耗",
+            "equals": "=",
+            "value": 35
+          },
+          {
+            "name": "技能4持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能5描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 50
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 50
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能5初始",
+            "equals": "=",
+            "value": 5
+          },
+          {
+            "name": "技能5消耗",
+            "equals": "=",
+            "value": 35
+          },
+          {
+            "name": "技能5持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能6描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 55
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 55
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能6初始",
+            "equals": "=",
+            "value": 5
+          },
+          {
+            "name": "技能6消耗",
+            "equals": "=",
+            "value": 35
+          },
+          {
+            "name": "技能6持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能7描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 60
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 60
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能7初始",
+            "equals": "=",
+            "value": 10
+          },
+          {
+            "name": "技能7消耗",
+            "equals": "=",
+            "value": 32
+          },
+          {
+            "name": "技能7持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能专精1描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 70
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 70
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能专精1初始",
+            "equals": "=",
+            "value": 10
+          },
+          {
+            "name": "技能专精1消耗",
+            "equals": "=",
+            "value": 32
+          },
+          {
+            "name": "技能专精1持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能专精2描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 80
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 80
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能专精2初始",
+            "equals": "=",
+            "value": 10
+          },
+          {
+            "name": "技能专精2消耗",
+            "equals": "=",
+            "value": 32
+          },
+          {
+            "name": "技能专精2持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能专精3描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "+",
+                "part": [
+                  {
+                    "name": "",
+                    "value": 90
+                  },
+                  {
+                    "name": "",
+                    "value": {
+                      "template": {
+                        "title": "color",
+                        "part": [
+                          {
+                            "name": "",
+                            "value": "#0098DC"
+                          },
+                          {
+                            "name": "",
+                            "value": 90
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              "#text": "攻击速度"
+            }
+          },
+          {
+            "name": "技能专精3初始",
+            "equals": "=",
+            "value": 15
+          },
+          {
+            "name": "技能专精3消耗",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能专精3持续",
+            "equals": "=",
+            "value": 30
+          }
+        ]
+      },
+      {
+        "title": "技能",
+        "part": [
+          {
+            "name": "技能名",
+            "equals": "=",
+            "value": "精神爆发"
+          },
+          {
+            "name": "技能名jp",
+            "equals": "=",
+            "value": "ソウルブースト"
+          },
+          {
+            "name": "技能名en",
+            "equals": "=",
+            "value": "Spirit Burst"
+          },
+          {
+            "name": "技能类型1",
+            "equals": "=",
+            "value": "自动回复"
+          },
+          {
+            "name": "技能类型2",
+            "equals": "=",
+            "value": "自动触发"
+          },
+          {
+            "name": "技能1描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "33%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能1初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能1消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能1持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能2描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "35%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能2初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能2消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能2持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能3描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "37%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能3初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能3消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能3持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能4描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "39%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 7
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能4初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能4消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能4持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能5描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "41%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 7
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能5初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能5消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能5持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能6描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "43%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 7
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能6初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能6消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能6持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能7描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "45%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 7
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能7初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能7消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能7持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能专精1描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "50%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 8
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能专精1初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能专精1消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能专精1持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能专精2描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "55%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 8
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能专精2初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能专精2消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能专精2持续",
+            "equals": "=",
+            "value": 25
+          },
+          {
+            "name": "技能专精3描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "60%"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": 8
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "术语",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "ba.stun"
+                            },
+                            {
+                              "name": "",
+                              "value": "晕眩"
+                            }
+                          ]
+                        },
+                        "#text": "技能自动开启，持续时间结束后阿米娅10秒"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "#text": "每次攻击变为攻击力的连发，随机攻击范围内的目标<br/>"
+            }
+          },
+          {
+            "name": "技能专精3初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能专精3消耗",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "技能专精3持续",
+            "equals": "=",
+            "value": 25
+          }
+        ]
+      },
+      {
+        "title": "技能2",
+        "part": [
+          {
+            "name": "技能名",
+            "equals": "=",
+            "value": "奇美拉"
+          },
+          {
+            "name": "技能名jp",
+            "equals": "=",
+            "value": "キメラ"
+          },
+          {
+            "name": "技能名en",
+            "equals": "=",
+            "value": "Chimera"
+          },
+          {
+            "name": "技能类型1",
+            "equals": "=",
+            "value": "自动回复"
+          },
+          {
+            "name": "技能类型2",
+            "equals": "=",
+            "value": "手动触发"
+          },
+          {
+            "name": "技能范围",
+            "equals": "=",
+            "value": "3-4"
+          },
+          {
+            "name": "技能1描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "100%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+100%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "25%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+25%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能1初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能1消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能1持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能2描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "110%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+110%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "25%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+25%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能2初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能2消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能2持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能3描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "120%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+120%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "25%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+25%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能3初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能3消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能3持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能4描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "130%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+130%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "50%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+50%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能4初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能4消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能4持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能5描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "140%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+140%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "50%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+50%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能5初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能5消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能5持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能6描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "150%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+150%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "50%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+50%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能6初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能6消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能6持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能7描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "160%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+160%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "75%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+75%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能7初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能7消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能7持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能专精1描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "180%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+180%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "75%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+75%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能专精1初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能专精1消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能专精1持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能专精2描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "200%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+200%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "75%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+75%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能专精2初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能专精2消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能专精2持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "技能专精3描述",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "230%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+230%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "*",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "100%"
+                    },
+                    {
+                      "name": "",
+                      "value": {
+                        "template": {
+                          "title": "color",
+                          "part": [
+                            {
+                              "name": "",
+                              "value": "#0098DC"
+                            },
+                            {
+                              "name": "",
+                              "value": "+100%"
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "扩大"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#0098DC"
+                    },
+                    {
+                      "name": "",
+                      "value": "真实"
+                    }
+                  ]
+                },
+                {
+                  "title": "color",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "#F49800"
+                    },
+                    {
+                      "name": "",
+                      "value": "技能结束后阿米娅强制退出战场"
+                    }
+                  ]
+                }
+              ],
+              "#text": "攻击力，生命上限，攻击范围，伤害类型变为<br/>"
+            }
+          },
+          {
+            "name": "技能专精3初始",
+            "equals": "=",
+            "value": 0
+          },
+          {
+            "name": "技能专精3消耗",
+            "equals": "=",
+            "value": 120
+          },
+          {
+            "name": "技能专精3持续",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "备注",
+            "equals": "=",
+            "value": "※强制退出战场视为撤回干员，返还部分部署费用"
+          }
+        ]
+      },
+      {
+        "title": "后勤技能2",
+        "part": [
+          {
+            "name": "后勤技能1-1",
+            "equals": "=",
+            "value": "合作协议"
+          },
+          {
+            "name": "后勤技能1-1阶段",
+            "equals": "=",
+            "value": "精英0"
+          },
+          {
+            "name": "后勤技能1-1图标",
+            "equals": "=",
+            "value": "bskill_ctrl_t_spd"
+          },
+          {
+            "name": "后勤技能1-1房间",
+            "equals": "=",
+            "value": "控制中枢"
+          },
+          {
+            "name": "后勤技能1-1描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "color",
+                "part": [
+                  {
+                    "name": "",
+                    "value": "#0098DC"
+                  },
+                  {
+                    "name": "",
+                    "value": "+7%"
+                  }
+                ]
+              },
+              "#text": "进驻控制中枢时，所有贸易站订单效率（同种效果取最高）"
+            }
+          },
+          {
+            "name": "后勤技能2-1",
+            "equals": "=",
+            "value": "小提琴独奏"
+          },
+          {
+            "name": "后勤技能2-1阶段",
+            "equals": "=",
+            "value": "精英2"
+          },
+          {
+            "name": "后勤技能2-1图标",
+            "equals": "=",
+            "value": "bskill_dorm_all2"
+          },
+          {
+            "name": "后勤技能2-1房间",
+            "equals": "=",
+            "value": "宿舍"
+          },
+          {
+            "name": "后勤技能2-1描述",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "color",
+                "part": [
+                  {
+                    "name": "",
+                    "value": "#0098DC"
+                  },
+                  {
+                    "name": "",
+                    "value": 0.15
+                  }
+                ]
+              },
+              "#text": "进驻宿舍时，该宿舍内所有干员的心情每小时恢复（同种效果取最高）"
+            }
+          }
+        ]
+      },
+      {
+        "title": "精英化材料",
+        "part": [
+          {
+            "name": "精1",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "龙门币"
+                    },
+                    {
+                      "name": "",
+                      "value": "2w"
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "术师芯片"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "装置"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "异铁"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "精2",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "龙门币"
+                    },
+                    {
+                      "name": "",
+                      "value": "12w"
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "术师双芯片"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "提纯源岩"
+                    },
+                    {
+                      "name": "",
+                      "value": 10
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "扭转醇"
+                    },
+                    {
+                      "name": "",
+                      "value": 10
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "技能升级材料",
+        "part": [
+          {
+            "name": 2,
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "材料消耗",
+                "part": [
+                  {
+                    "name": "",
+                    "value": "技巧概要·卷1"
+                  },
+                  {
+                    "name": "",
+                    "value": 4
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "name": 3,
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷1"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "破损装置"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": 4,
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷2"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "固源岩"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": 5,
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷2"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "糖"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": 6,
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷2"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "酮凝集组"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": 7,
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "全新装置"
+                    },
+                    {
+                      "name": "",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "糖组"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "一8",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "白马醇"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "酮凝集组"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "一9",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "五水研磨石"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "白马醇"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "一10",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 10
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "D32钢"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "提纯源岩"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "二8",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "三水锰矿"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "全新装置"
+                    },
+                    {
+                      "name": "",
+                      "value": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "二9",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "RMA70-24"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "三水锰矿"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "二10",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 10
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "聚合剂"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "白马醇"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "三8",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "五水研磨石"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "扭转醇"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "三9",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "提纯源岩"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "五水研磨石"
+                    },
+                    {
+                      "name": "",
+                      "value": 6
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "三10",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "技巧概要·卷3"
+                    },
+                    {
+                      "name": "",
+                      "value": 10
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "双极纳米片"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "聚酸酯块"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "模组",
+        "part": [
+          {
+            "name": "名称",
+            "equals": "=",
+            "value": "阿米娅证章"
+          },
+          {
+            "name": "基础证章",
+            "equals": "=",
+            "value": "yes"
+          },
+          {
+            "name": "分支",
+            "equals": "=",
+            "value": "中坚术师"
+          },
+          {
+            "name": "基础信息",
+            "equals": "=",
+            "value": "阿米娅擅长对敌人造成法术杀伤<br>根据外勤部门决议<br>在外勤任务中划分为术师干员，行使中坚术师职责<br>特别颁发此证章<br>以兹证明"
+          }
+        ]
+      },
+      {
+        "title": "模组",
+        "part": [
+          {
+            "name": "名称",
+            "equals": "=",
+            "value": "DWDB-221E"
+          },
+          {
+            "name": "类型",
+            "equals": "=",
+            "value": "CCR-Y"
+          },
+          {
+            "name": "类型颜色",
+            "equals": "=",
+            "value": "red"
+          },
+          {
+            "name": "生命",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "攻击",
+            "equals": "=",
+            "value": 30
+          },
+          {
+            "name": "生命2",
+            "equals": "=",
+            "value": 130
+          },
+          {
+            "name": "攻击2",
+            "equals": "=",
+            "value": 40
+          },
+          {
+            "name": "生命3",
+            "equals": "=",
+            "value": 150
+          },
+          {
+            "name": "攻击3",
+            "equals": "=",
+            "value": 50
+          },
+          {
+            "name": "特性追加",
+            "equals": "=",
+            "value": "yes"
+          },
+          {
+            "name": "特性",
+            "equals": "=",
+            "value": {
+              "template": {
+                "title": "变动数值lite",
+                "part": [
+                  {
+                    "name": "",
+                    "value": ""
+                  },
+                  {
+                    "name": "",
+                    "value": "蓝"
+                  },
+                  {
+                    "name": "",
+                    "value": 1
+                  }
+                ]
+              },
+              "#text": "普通攻击命中精英或领袖敌人时获得点技力"
+            }
+          },
+          {
+            "name": "天赋2",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "修正",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "成功造成伤害后"
+                    },
+                    {
+                      "name": "原文",
+                      "equals": "=",
+                      "value": "攻击敌人时"
+                    },
+                    {
+                      "name": "name",
+                      "equals": "=",
+                      "value": "修正1"
+                    },
+                    {
+                      "name": "原因",
+                      "equals": "=",
+                      "value": 6
+                    },
+                    {
+                      "name": "group",
+                      "equals": "=",
+                      "value": "注"
+                    }
+                  ]
+                },
+                {
+                  "title": "变动数值lite",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "up"
+                    },
+                    {
+                      "name": "",
+                      "value": "蓝"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                }
+              ],
+              "#text": "天赋【情绪吸收】更新<br/>额外回复点技力，消灭敌人后额外获得8点技力"
+            }
+          },
+          {
+            "name": "天赋3",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "修正",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "成功造成伤害后"
+                    },
+                    {
+                      "name": "原文",
+                      "equals": "=",
+                      "value": "攻击敌人时"
+                    },
+                    {
+                      "name": "name",
+                      "equals": "=",
+                      "value": "修正1"
+                    },
+                    {
+                      "name": "原因",
+                      "equals": "=",
+                      "value": 6
+                    },
+                    {
+                      "name": "group",
+                      "equals": "=",
+                      "value": "注"
+                    }
+                  ]
+                },
+                {
+                  "title": "变动数值lite",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "up"
+                    },
+                    {
+                      "name": "",
+                      "value": "蓝"
+                    },
+                    {
+                      "name": "",
+                      "value": 10
+                    }
+                  ]
+                }
+              ],
+              "#text": "天赋【情绪吸收】更新<br/>额外回复3点技力，消灭敌人后额外获得点技力"
+            }
+          },
+          {
+            "name": "任务1",
+            "equals": "=",
+            "value": "由非助战阿米娅累计歼灭10个精英或领袖敌人"
+          },
+          {
+            "name": "任务2",
+            "equals": "=",
+            "value": "3星通关主题曲[[3-8]]；必须编入非助战中坚术师状态的阿米娅并上场，且使用中坚术师状态的阿米娅歼灭碎骨"
+          },
+          {
+            "name": "解锁等级",
+            "equals": "=",
+            "value": 50
+          },
+          {
+            "name": "解锁信赖",
+            "equals": "=",
+            "value": 100
+          },
+          {
+            "name": "材料消耗",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "模组数据块"
+                    },
+                    {
+                      "name": "",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "聚酸酯块"
+                    },
+                    {
+                      "name": "",
+                      "value": 3
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "龙门币"
+                    },
+                    {
+                      "name": "",
+                      "value": "4万"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "材料消耗2",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "模组数据块"
+                    },
+                    {
+                      "name": "",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "数据增补条"
+                    },
+                    {
+                      "name": "",
+                      "value": 20
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "酮阵列"
+                    },
+                    {
+                      "name": "",
+                      "value": 4
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "龙门币"
+                    },
+                    {
+                      "name": "",
+                      "value": "5万"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "材料消耗3",
+            "equals": "=",
+            "value": {
+              "template": [
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "模组数据块"
+                    },
+                    {
+                      "name": "",
+                      "value": 2
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "数据增补仪"
+                    },
+                    {
+                      "name": "",
+                      "value": 8
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "异铁块"
+                    },
+                    {
+                      "name": "",
+                      "value": 5
+                    }
+                  ]
+                },
+                {
+                  "title": "材料消耗",
+                  "part": [
+                    {
+                      "name": "",
+                      "value": "龙门币"
+                    },
+                    {
+                      "name": "",
+                      "value": "6万"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "name": "基础信息",
+            "equals": "=",
+            "value": "最初是几个模糊人影，随后是耀眼的光，光渐渐远离，升到天上，留下一片斑驳。不多久这些光点同样迅速远去，就只剩一片无意义的漆黑。<br>你想起那些斑驳皆是天体，你想起星星们的家园名为宇宙。<br>紧接着，你的视野忽然清晰起来，光滑的金属、密闭的空间、透明的窗口成了你的第三只眼——你透过它，看着窗外巨大的灰色球体，在那些常人无法理解的巨构之中，它安静地等待着自己的生父......<br>你突然有些感动，某些体液打湿了视野。你开始寻找这份情绪的根源，你看到了一个孩子的诞生，那是你的孩子。全新的命运，灵魂的寄托......可这样一个小小的生命与那个虚空的巨构相比，是多么微不足道。<br>你回到眼下，看着那些大大小小的工程舰船，作为数学家的你迅速进行了一个可笑的对比——其中最小的舰船，都数千万倍于一个人类婴儿的大小。<br>但你们做到了。从远古的远古开始，从火或者一次狩猎开始，你们走到了今天。<br>你很自豪。不知怎地，你对这份自豪感同身受，于是更多的信息涌入了你的脑海。你想起了自己的身份，你明白了自己就是那颗人造卫星的设计者。而在漫长的亚空间旅行之后，你终于迎来了亲眼目睹它竣工的那一刻。<br>荣誉，财富，家人，理想.....这些词汇闪烁、盘旋、消散，最终只剩下一个，且仅有一个......<br>......<br>...<br>“未来......”<br>“什么？你看到了什么？”<br>“......”<br>“喂，回话！喂！”<br>众人陷入了沉默。一旁的年轻女性着急了起来。<br>“检查他的大脑，我早说了不该这么着急，我们才建立起与数据库通讯的协议渠道！这才刚完成第一例成功的输送！”<br>“......抱歉。”<br>“等等。你说什么？”<br>“我说......我以前其实一直不太喜欢你们这些行星工程师，我觉得你们做的事情华而不实......但我看见了。我看见了你的过去，我共享了你的过去，我感受到了你的情感，这是......无与伦比的。”<br>“你......”<br>“是。我感到你像个普通的父亲那样回想起孩子和家庭，看着那颗确实有些惊人的人造月亮，而且，这种感觉超乎想象......我们成功了。”<br>众人再次沉默。<br>“那么......”打破沉默的是个相对年轻些的红发女人，“它会怎么记录我们的时代，往后的时代？”<br>“大概是一堆蠢事的大合集。”有人漫不经心地回答，“我们已经领教得够多了，只不过以后，他们再也找不到修饰历史的借口了。”<br>“对人类更有信心一点吧，朋友们。”另一位老人索性坐了下来，为自己挑了个更舒服的姿势，“我们已经吸取了足够多的教训了，我们的后人不会重蹈覆辙。”<br>有人露出苦笑，当然，这只是个美好的祝愿。<br>“......所以我们确实成功了？DWDB-221E项目居然这么快就取得成果......天哪。”<br>卷头发的人猛然站起身来。<br>“我们还要叫它DWDB-221E吗？我知道，项目编号有规定的格式，就和AMa一样，冷冰冰的简称......但我们的工作值得一个更庄重的正式命名！”他再次抛出了那个业已锲而不舍了大半年的提议，“我希望叫它......‘命运’！或者‘世界真理’？”<br>这次是尴尬的沉默。<br>“‘黑王冠’怎么样？毕竟从部分现象的直观视觉印象来讲，确实像个黑王冠。”<br>“不怎么样，听起来像个无聊的历史剧集。”<br>“那么......”<br>老人打断了即将陷入无止境争吵的属下们，她看向窗外的星辰，有些不好的消息在传来，但一切艰险终将被人类逾越，就和以往的无数时刻一样。<br>“我有个提议......”<br>“我们该叫它，‘文明的存续’。”"
+          }
+        ]
+      },
+      {
+        "title": "相关道具",
+        "part": [
+          {
+            "name": "干员简介",
+            "equals": "=",
+            "value": "罗德岛公开领导人阿米娅，将与你并肩作战。"
+          },
+          {
+            "name": "干员简介补充",
+            "equals": "=",
+            "value": "加油，博士。"
+          },
+          {
+            "name": "信物用途",
+            "equals": "=",
+            "value": "用于提升阿米娅的潜能。"
+          },
+          {
+            "name": "信物描述",
+            "equals": "=",
+            "value": "“总有一天你会理解我的选择......原谅我。”"
+          }
+        ]
+      },
+      {
+        "title": "人员档案set",
+        "part": [
+          {
+            "name": "性别",
+            "equals": "=",
+            "value": "女"
+          },
+          {
+            "name": "战斗经验",
+            "equals": "=",
+            "value": "三年"
+          },
+          {
+            "name": "出身地",
+            "equals": "=",
+            "value": "雷姆必拓"
+          },
+          {
+            "name": "生日",
+            "equals": "=",
+            "value": "12月23日"
+          },
+          {
+            "name": "种族",
+            "equals": "=",
+            "value": "卡特斯/奇美拉"
+          },
+          {
+            "name": "身高",
+            "equals": "=",
+            "value": "142cm"
+          },
+          {
+            "name": "矿石病感染情况",
+            "equals": "=",
+            "value": "体表有源石结晶分布，参照医学检测报告，确认为感染者。"
+          },
+          {
+            "name": "是否感染者",
+            "equals": "=",
+            "value": "感染者"
+          },
+          {
+            "name": "物理强度",
+            "equals": "=",
+            "value": "普通"
+          },
+          {
+            "name": "战场机动",
+            "equals": "=",
+            "value": "标准"
+          },
+          {
+            "name": "生理耐受",
+            "equals": "=",
+            "value": "普通"
+          },
+          {
+            "name": "战术规划",
+            "equals": "=",
+            "value": "优良"
+          },
+          {
+            "name": "战斗技巧",
+            "equals": "=",
+            "value": "标准"
+          },
+          {
+            "name": "源石技艺适应性",
+            "equals": "=",
+            "value": "■■"
+          },
+          {
+            "name": "体细胞与源石融合率",
+            "equals": "=",
+            "value": "19%"
+          },
+          {
+            "name": "血液源石结晶密度",
+            "equals": "=",
+            "value": "0.27u/L"
+          }
+        ]
+      },
+      {
+        "title": "人员档案",
+        "part": [
+          {
+            "name": "档案1",
+            "equals": "=",
+            "value": "基础档案"
+          },
+          {
+            "name": "档案1条件",
+            "equals": "=",
+            "value": "初始开放"
+          },
+          {
+            "name": "档案1文本",
+            "equals": "=",
+            "value": "【代号】阿米娅\n【性别】女\n【战斗经验】三年\n【出身地】雷姆必拓\n【生日】12月23日\n【种族】卡特斯/奇美拉\n【身高】142cm\n【矿石病感染情况】\n体表有源石结晶分布，参照医学检测报告，确认为感染者。"
+          },
+          {
+            "name": "档案2",
+            "equals": "=",
+            "value": "综合体检测试"
+          },
+          {
+            "name": "档案2条件",
+            "equals": "=",
+            "value": "初始开放"
+          },
+          {
+            "name": "档案2文本",
+            "equals": "=",
+            "value": "【物理强度】普通 \n【战场机动】标准 \n【生理耐受】普通 \n【战术规划】优良 \n【战斗技巧】标准 \n【源石技艺适应性】■■"
+          },
+          {
+            "name": "档案3",
+            "equals": "=",
+            "value": "客观履历"
+          },
+          {
+            "name": "档案3条件",
+            "equals": "=",
+            "value": "初始开放"
+          },
+          {
+            "name": "档案3文本",
+            "equals": "=",
+            "value": "罗德岛的公开领袖，在内部拥有最高执行权。虽然，从外表上看起来仅仅是个不成熟的少女，实际上，她却是深受大家信任的合格的领袖。\n现在，阿米娅正带领着罗德岛，为了感染者的未来，为了让这片大地挣脱矿石病的阴霾而不懈努力。"
+          },
+          {
+            "name": "档案4",
+            "equals": "=",
+            "value": "临床诊断分析"
+          },
+          {
+            "name": "档案4条件",
+            "equals": "=",
+            "value": "初始开放"
+          },
+          {
+            "name": "档案4文本",
+            "equals": "=",
+            "value": "造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为矿石病感染者。\n\n【体细胞与源石融合率】19% \n■■■■■■■■■■■■■■■■■■■■■■■■■\n■■■■■■■■■■■■■■■■■■■■■■■■■\n\n【血液源石结晶密度】0.27u/L\n■■■■■■■■■■■■■■■■■■■■■■■■■\n■■■■■■■■■■■■■■■■■■■■■■■■■"
+          },
+          {
+            "name": "档案5",
+            "equals": "=",
+            "value": "升变档案一"
+          },
+          {
+            "name": "档案5条件",
+            "equals": "=",
+            "value": "升变解锁"
+          },
+          {
+            "name": "档案5文本",
+            "equals": "=",
+            "value": "史载，萨卡兹君王奎隆的佩剑，长度约在0.9到1.2米之间，宽约5厘米，材质不明，通体呈黑色，剑身铭刻萨卡兹传统文字，释作“争斗在此止歇”。\n奎隆继位后整顿卡兹戴尔，深感西方荼害萨卡兹已久，遂率领部分萨卡兹部族向东方迁移，后下落不明。\n传说，奎隆有令其敌人不战而退之威。有记述称奎隆之敌在与奎隆作战时仿佛会遭受数倍于武器重量之重压，在物理与意志上同遭奎隆捶打，如若侥幸不死，也多成残废。但也有人称奎隆为仁爱君主，任何遭其佩剑划破的创口都不会流血，如若退后，则能苟全性命。\n不过，部分古籍宣称，在奎隆继位前，其佩剑就已于战争中毁坏，日后奎隆所持武器，只是他以法术塑造出的脆弱外形。这与奎隆此后在萨卡兹冲突中的表现不符，且少有人能解释在此前提下为何奎隆没有重铸爱剑。我推测，奎隆的确有以法术塑形武器之力，其理论基点同样根植于王位，只是奎隆碍于前游侠之身份而甚少使用此类法术。\n当然，文献记载，奎隆继位后，其佩剑便时常散发青色幽光，如同焰息。由于奎隆性格激烈，此剑日后也被称作“青色怒火”。\n萨卡兹的大多传说都随卡兹戴尔不断遭毁而佚失，这对历史考察造成很大困难。近日不断有萨卡兹学者呼吁重塑萨卡兹的历史，但研究中为宣扬萨卡兹种之崇高性而向研究材料添油加醋之行为，实为污染。\n\n——Logos"
+          },
+          {
+            "name": "档案6",
+            "equals": "=",
+            "value": "？？？"
+          },
+          {
+            "name": "档案6条件",
+            "equals": "=",
+            "value": "初始开放"
+          },
+          {
+            "name": "档案6文本",
+            "equals": "=",
+            "value": "？？？？？？"
+          }
+        ]
+      },
+      {
+        "title": "参阅三",
+        "part": [
+          {
+            "name": "",
+            "value": {
+              "template": {
+                "title": "FULLPAGENAME"
+              }
+            }
+          },
+          {
+            "name": "",
+            "value": "yy"
+          }
+        ]
+      },
+      {
+        "title": {
+          "template": {
+            "title": "FULLPAGENAME"
+          },
+          "#text": ":/语音记录"
+        }
+      },
+      {
+        "title": "spine"
+      },
+      {
+        "title": "干员导航"
+      }
+    ],
+    "h": [
+      "==干员信息==",
+      "==获得方式==",
+      "==属性==",
+      "==攻击范围==",
+      "==天赋==",
+      "==潜能提升==",
+      "==技能==",
+      "==后勤技能==",
+      "==精英化材料==",
+      "==技能升级材料==",
+      "==模组==",
+      "===阿米娅证章===",
+      "===DWDB-221E===",
+      "==相关道具==",
+      "==干员档案==",
+      "==语音记录==",
+      "==干员模型=="
+    ],
+    "ext": [
+      {
+        "name": "references",
+        "attr": "group=注"
+      },
+      {
+        "name": "section",
+        "attr": "begin=专属模组"
+      },
+      {
+        "name": "references",
+        "attr": "group=注"
+      },
+      {
+        "name": "section",
+        "attr": "end=专属模组"
+      },
+      {
+        "name": "references",
+        "attr": ""
+      }
+    ],
+    "comment": "<!--如需修改技能信息，请前往[[后勤技能一览]]页面-->",
+    "#text": "*该干员无法使用通用信物来提升潜能。'''技能1（精英0开放）''''''技能2（精英1开放）''''''技能3（精英2开放）'''"
+  }
+}
