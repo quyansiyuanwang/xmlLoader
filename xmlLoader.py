@@ -26,11 +26,19 @@ def json_io(filename: str,
 def to_list(dic):
     return [v for k, v in dic.items() if v != '=']
         
-
+def indents_string(string: str, indents: str):
+    return string.replace('\n', '\n' + indents)
 
 def tree(tree_stru, indents: int = 2):
-    if indents > 10: return  # 临时的限制，不然他不崩溃我要崩溃
+    # if indents > 16: return  # 临时的限制，不然他不崩溃我要崩溃
     match tree_stru:
+        case {'name':name, 'equals': '=', 'value': value}:
+            if isinstance(value, dict):
+                tree(value, indents + 2)
+            value = str(value)
+            if '\n' in value:
+                value = indents_string(value, '>' * (indents + len(name) + 6))
+            print('-' * indents + f'{name}: {value}')
         case dict():
             if 'equals' in tree_stru:
                 # print(tree_stru.keys())
@@ -38,15 +46,15 @@ def tree(tree_stru, indents: int = 2):
 
             else:
                 for k, v in tree_stru.items():
-                    print(' ' * indents + k)
+                    print('-' * indents + k)
                     tree(v, indents + 2)
 
         case list():
             for elem in tree_stru:
-                tree(elem, indents + 2)
+                    tree(elem, indents + 2)
         
         case _:    
-            print(' ' * indents + str(tree_stru))
+            print('-' * indents + repr(tree_stru))
 
 
 
