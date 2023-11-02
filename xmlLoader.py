@@ -35,10 +35,11 @@ def tree(tree_stru, indents: int = 2):
         case {'name':name, 'equals': '=', 'value': value}:
             if isinstance(value, dict):
                 tree(value, indents + 2)
-            value = str(value)
-            if '\n' in value:
-                value = indents_string(value, '>' * (indents + len(name) + 6))
-            print('-' * indents + f'{name}: {value}')
+            else:
+                value = str(value)
+                if '\n' in value:
+                    value = indents_string(value, '>' * (indents + len(name) + 6))
+                print('-' * indents + f'{name}: {value}')
         case dict():
             if 'equals' in tree_stru:
                 # print(tree_stru.keys())
